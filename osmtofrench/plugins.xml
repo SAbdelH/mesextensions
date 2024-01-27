@@ -1,10 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     <pyqgis_plugin name="osmtofrench" version="0.1">
-        <description>Ce plugin vise à récupérer les données OSM en anglais et les traiter pour les mettre en français.</description>
+        <description><![CDATA[Ce plugin vise à récupérer les données OSM en anglais et les traiter pour les mettre en français..]]></description>
+        <about></about>
+        <version>0.1</version>
+        <trusted>True</trusted>
         <qgis_minimum_version>3.20</qgis_minimum_version>
+        <qgis_maximum_version>3.99.0</qgis_maximum_version>
+        <homepage></homepage>
         <file_name>osmtofrench.zip</file_name>
-        <author_name>SOUFOU Abdel Hafidhou</author_name>
-        <download_url>https://1drv.ms/f/s!AgVwgUi-5Xreg8YoeIT7tqVP8grLMw?e=LmY7zs</download_url>
+        <icon>/media/packages/2016/quickwkt_icon_qsf96s5.png</icon>
+        <author_name><![CDATA[SOUFOU Abdel Hafidhou]]></author_name>
+        <download_url>https://1drv.ms/u/s!AgVwgUi-5Xreg8YqljFI077ZrY-lyQ?e=49h7t9</download_url>
+        <uploaded_by>Abdel Hafidhou SOUFOU</uploaded_by>
+        <create_date>01/08/2023</create_date>
+        <update_date>27/01/2024</update_date>
+        <experimental>False</experimental>
+        <deprecated>False</deprecated>
+        <tracker></tracker>
+        <repository><![CDATA[https://github.com/SAbdelH/mesextensions/tree/main/osmtofrench]]></repository>
+        <tags><![CDATA[osm,franch]]></tags>
+        <downloads>1</downloads>
+        <external_dependencies></external_dependencies>
+        <server>False</server>
     </pyqgis_plugin>
 </plugins>
