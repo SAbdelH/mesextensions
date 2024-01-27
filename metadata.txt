@@ -1,0 +1,4 @@
+[general]
+name: osmtofrech
+version: 0.1
+qgisMinimumVersion: 3.26
