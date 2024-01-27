@@ -1,10 +1,10 @@
-<?xml version = '1.0' encoding = 'UTF-8'?>
+<?xml version="1.0" encoding="UTF-8"?>
 <plugins>
     <pyqgis_plugin name="osmtofrench" version="0.1">
-        <description>Ce plugin vise à récupérer les données osm en anglais et les traitées pour le mettre en français.</description>
+        <description>Ce plugin vise à récupérer les données OSM en anglais et les traiter pour les mettre en français.</description>
         <qgis_minimum_version>3.20</qgis_minimum_version>
         <file_name>osmtofrench.zip</file_name>
         <author_name>SOUFOU Abdel Hafidhou</author_name>
-        <download_url>https://1drv.ms/u/s!AgVwgUi-5Xreg8YqljFI077ZrY-lyQ?e=pkFri9</download_url>
+        <download_url>https://1drv.ms/f/s!AgVwgUi-5Xreg8YoeIT7tqVP8grLMw?e=LmY7zs</download_url>
     </pyqgis_plugin>
 </plugins>
